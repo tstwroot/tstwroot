@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens Favoritas: <strong>Assembly, C/C++, Python, Javascript</strong>
+  Linguagens Favoritas: <strong>Assembly, C/C++, Python, Javascript</strong>
 </p>
 
 <p align="left">
