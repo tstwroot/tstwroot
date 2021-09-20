@@ -14,8 +14,5 @@
   <a href="https://instagram.com/_pablovitorino">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=_pablovitorino"/></a>
 </p>
-
 ------------------
-
-## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstwroot&show_icons=true)
