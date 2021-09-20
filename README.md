@@ -1,7 +1,7 @@
 
 <div>
 <p align="left"> 
-  Olá meu nome é Pablo, sou apaixonado por computação des de criança, computadores sempre me entrigaram, e hoje eu tenho a oportunidade de estuda-los.
+  Olá meu nome é Pablo, sou apaixonado por computação dês de criança, computadores sempre me entrigaram, e hoje eu tenho a oportunidade de estuda-los.
 </p>
 
 <p align="left">
