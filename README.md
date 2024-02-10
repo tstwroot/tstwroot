@@ -1,5 +1,5 @@
 
 <div>
 <p align="left"> 
-  <strong>Computing will save your life.</strong>
+  <strong>Computing save my life.</strong>
 </div>
